@@ -2,4 +2,3 @@
 # charos
 ## farangiz
 ## #gulnoza
-#### jasmina
